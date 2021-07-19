@@ -12,4 +12,7 @@ def read_root():
 def read_item(item_id : int , q: Optional[str]=None):
     return {"item_id": item_id, "q":q}
 
-    
+
+
+# Hello friends this is gopal shaurya.. Let's have lots of learning and testing
+# a great, powerful, prosperous and happy life together.
